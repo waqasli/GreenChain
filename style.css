@@ -1,0 +1,4 @@
+a:hover {color: yellow !important}
+@media only screen and (max-width:768px){
+  .hidden-xs {display: none !important;}
+}
